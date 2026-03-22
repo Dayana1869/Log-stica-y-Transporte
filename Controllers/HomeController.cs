@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using Logística_y_transporte.Models;
+using Logistica_y_transporte.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Logística_y_transporte.Controllers
+namespace Logistica_y_transporte.Controllers
 {
     public class HomeController : Controller
     {

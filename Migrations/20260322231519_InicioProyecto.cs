@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Logística_y_transporte.Migrations
+namespace Logistica_y_transporte.Migrations
 {
     /// <inheritdoc />
     public partial class InicioProyecto : Migration

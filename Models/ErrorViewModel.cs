@@ -1,4 +1,4 @@
-namespace Logística_y_transporte.Models
+namespace Logistica_y_transporte.Models
 {
     public class ErrorViewModel
     {

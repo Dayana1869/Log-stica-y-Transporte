@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-namespace Logística_y_transporte.Models
+namespace Logistica_y_transporte.Models
 {
 
     public class AppDbContext:
